@@ -1,6 +1,6 @@
 # Hi, I'm Tassie 👋
 
-Computer Information Systems student at Georgia State University with a concentration in Cybersecurity, expected to graduate July 2027. I'm passionate about building things at the intersection of technology, security, and creativity.
+Computer Information Systems student at Georgia State University with a concentration in Cybersecurity, expected to graduate May 2027. I'm passionate about building things at the intersection of technology, security, and creativity.
 
 ---
 
