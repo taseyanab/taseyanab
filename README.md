@@ -1,56 +1,49 @@
-# Hi, I'm Tassie 👋
+# Taseyana Booker-Hopkins
 
-Computer Information Systems student at Georgia State University with a concentration in Cybersecurity, expected to graduate May 2027. I'm passionate about building things at the intersection of technology, security, and creativity.
+Cybersecurity student at Georgia State University (Computer Information Systems, Cybersecurity concentration), graduating May 2027. I build AI security tools, campus apps and creative projects, and I'm open to internships, part time and full time roles starting now.
 
----
+Portfolio: [taseyana.com](https://taseyana.com)
 
-## 🎓 Education
+## Featured projects
 
-**Georgia State University** — B.S. Computer Information Systems, Cybersecurity Concentration (GPA: 3.69)
-**Georgia Piedmont Technical College** — A.S. Entrepreneurship (GPA: 4.0)
+**PantherAssist**: an AI security assistant for Georgia State staff, with sign in and an agent that flags malicious prompts. Presented to university leadership.
+[Code](https://github.com/taseyanab/pantherassist)
 
----
+**Panthora**: an AI security platform for companies that stops AI data leaks, finds unapproved AI tools and tracks SOC 2 readiness.
+[Code](https://github.com/taseyanab/panthora)
 
-## 🛠️ Skills & Tools
+**Held**: a postpartum support app built at Hacklanta 2026, with locked down data and a crisis check before every AI response.
+[Code](https://github.com/taseyanab/held)
 
-**Languages & Development**
-`Python` `Git` `HTML` `CSS` `JavaScript`
+**PIN App**: a reimagined campus involvement app with single sign on, two step verification and a live campus map.
+[Code](https://github.com/taseyanab/pin-app)
 
-**Data & Productivity**
-`Microsoft Office` `Google Suite` `Data Analysis` `Project Management`
+**Pull Up**: an Atlanta event ticketing platform with transferable tickets, group purchases and organizer payouts.
+[Code](https://github.com/taseyanab/pull-up)
 
-**Creative**
-`Adobe Lightroom` `Adobe Photoshop` `Adobe Portfolio` `Content Creation`
+**After the Tassel**: a post graduation planner for students.
+[Code](https://github.com/taseyanab/after-the-tassel)
 
----
+## Skills
 
-## 📌 Currently
+- **Security:** AI security and governance, risk management, incident response documentation, Linux
+- **Development:** Python, HTML and CSS, Supabase, prompt engineering, Git and GitHub
+- **Tools:** Microsoft Office, Google Workspace, Figma, Adobe Lightroom and Photoshop, Google AI Studio
+- **Leadership:** RISE in Computing Cybersecurity Fellow and mentor, Girls Who Code, Women in Technology
 
-- 🔐 Cybersecurity Fellow via **RISE in Computing**
-- 🏗️ Building projects in **Python** and expanding into cybersecurity tooling
-- 📷 Running an Atlanta-based portrait photography business
-- 🎓 Member of **Women in Technology**
+## Experience
 
----
+- **Cybersecurity Assistant (work study)**, Georgia State University, October 2024 to present
+- **Content creator and brand partner**, Adidas campaign with NBA coach Ashton Gibbs
+- **Photographer**, [@bytassiejolie](https://instagram.com/bytassiejolie), four years of portrait work
 
-## 🏆 Honors
+## Honors
 
-- President's List (×2) · Dean's List (×5)
-- CIS Award of Excellence
-- Certificate of Special Congressional Recognition
+President's List (2x), Dean's List (5x), CIS Award of Excellence, Certificate of Special Congressional Recognition
 
----
+## Contact
 
-## 📫 Let's Connect
+Email: tbookerhopkins1@student.gsu.edu
+LinkedIn: [linkedin.com/in/taseyana](https://linkedin.com/in/taseyana)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/taseyanab)
-
----
-
-*She/Her · Atlanta, GA · Open to collaboration and internship opportunities*
-
-<!---
-taseyanab/taseyanab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+*She/Her · Atlanta, GA*
